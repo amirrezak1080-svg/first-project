@@ -1,0 +1,42 @@
+@font-face{
+    font-family: css_font;
+    src: url(../Font/Mahboubeh_mehravar.ttf);
+}
+@font-face{
+    font-family: B nazanin;
+    src: url(../Font/B\ Nazanin.ttf);
+}
+
+.h1_title1{
+    font-family: css_font;
+}
+
+#btn_ersal{
+    background-color: rgb(189, 188, 188);
+    border-width: 2px;
+    cursor: pointer;
+    font-family: css_font;
+}
+
+.body{
+    text-align: center;
+    background-image: url("../Picture/backg2.jpg");
+    background-size:contain ;
+    background-position: center;
+    font-family:css_font;
+}
+.video_1{
+    border-style: groove;
+    border-radius: 8px;
+    padding: 5px;
+}
+.div_video1{
+    background-color: rgba(135, 134, 134, 0.5);
+    height: 305px;
+    text-align: center;
+
+}
+.p_1{
+    font-family: "css_font";
+    font-size: 48px;
+}
